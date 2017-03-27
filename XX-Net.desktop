@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=3.2.6
+Name=XX-Net
+Exec=/home/wangyao/XX-Net-3.1.19/start > /dev/null
+Terminal=false
+Icon=/home/wangyao/XX-Net-3.1.19/code/default/launcher/web_ui/favicon.ico
+Type=Application
+Categories=Development
